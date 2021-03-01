@@ -3,3 +3,4 @@ It has a surface that appears red.
 It is named after the Roman God.
 I've run out of ideas for new line text.
 Mars has 2 moons.
+Mars is red.
