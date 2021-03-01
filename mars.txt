@@ -4,3 +4,4 @@ It is named after the Roman God.
 I've run out of ideas for new line text.
 Mars has 2 moons.
 This is the line that Will is adding.
+Mars is red.
